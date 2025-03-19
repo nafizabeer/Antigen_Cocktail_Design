@@ -28,6 +28,6 @@ python opt_script.py --data_dir "./data" --out_dir "./results" --seed 1 --iterat
 # Credits
 The codes for Bayesian optimization and genetic algorithm are based on [https://github.com/facebookresearch/bo_pr](https://github.com/facebookresearch/bo_pr) and [https://github.com/100/Solid/blob/master/Solid/GeneticAlgorithm.py](https://github.com/100/Solid/blob/master/Solid/GeneticAlgorithm.py) respectively.
 
-The script for affnity maturation simulation is built on the resouces shared in [https://github.com/ericzwang/sars2-vaccine/tree/main/AMcode](https://github.com/ericzwang/sars2-vaccine/tree/main/AMcode).
+The script for affinity maturation simulation is built on the resouces shared in [https://github.com/ericzwang/sars2-vaccine/tree/main/AMcode](https://github.com/ericzwang/sars2-vaccine/tree/main/AMcode).
 
 
