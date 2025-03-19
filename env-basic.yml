@@ -1,0 +1,29 @@
+name: vd_adv
+channels:
+  - pytorch
+  - gpytorch
+  - nvidia
+  - huggingface
+  - conda-forge
+  - defaults
+dependencies:
+  - matplotlib
+  - numpy
+  - pandas
+  - python
+  - pytorch < 2.0
+  - pytorch-cuda=11.7
+  - botorch
+  - scikit-learn
+  - scipy
+  - statsmodels
+  - networkx
+  - tqdm
+  - nltk
+  - h5py
+  - pip
+  - pip:
+    - biopython
+    - optuna
+    - transformers
+    - sentencepiece
